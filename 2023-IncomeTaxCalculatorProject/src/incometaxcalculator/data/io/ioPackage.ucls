@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="incometaxcalculator.data.io.FileReader" project="IncomeTaxCalculator" 
+    file="/IncomeTaxCalculator/src/incometaxcalculator/data/io/FileReader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="240" width="373" x="145" y="37"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" language="java" name="incometaxcalculator.data.io.FileWriter" project="IncomeTaxCalculator" 
+    file="/IncomeTaxCalculator/src/incometaxcalculator/data/io/FileWriter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="249" width="200" x="1103" y="643"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="3" language="java" name="incometaxcalculator.data.io.InfoWriter" project="IncomeTaxCalculator" 
+    file="/IncomeTaxCalculator/src/incometaxcalculator/data/io/InfoWriter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="182" width="229" x="841" y="37"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="incometaxcalculator.data.io.LogWriter" project="IncomeTaxCalculator" 
+    file="/IncomeTaxCalculator/src/incometaxcalculator/data/io/LogWriter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="232" width="198" x="1354" y="43"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="incometaxcalculator.data.io.TXTInfoWriter" project="IncomeTaxCalculator" 
+    file="/IncomeTaxCalculator/src/incometaxcalculator/data/io/TXTInfoWriter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="285" width="265" x="777" y="317"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="incometaxcalculator.data.io.XMLInfoWriter" project="IncomeTaxCalculator" 
+    file="/IncomeTaxCalculator/src/incometaxcalculator/data/io/XMLInfoWriter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="286" width="278" x="456" y="317"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="incometaxcalculator.data.io.TXTLogWriter" project="IncomeTaxCalculator" 
+    file="/IncomeTaxCalculator/src/incometaxcalculator/data/io/TXTLogWriter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="224" x="1103" y="317"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="incometaxcalculator.data.io.XMLFileReader" project="IncomeTaxCalculator" 
+    file="/IncomeTaxCalculator/src/incometaxcalculator/data/io/XMLFileReader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="169" x="250" y="317"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="incometaxcalculator.data.io.XMLLogWriter" project="IncomeTaxCalculator" 
+    file="/IncomeTaxCalculator/src/incometaxcalculator/data/io/XMLLogWriter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1462" y="447"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="incometaxcalculator.data.io.TXTFileReader" project="IncomeTaxCalculator" 
+    file="/IncomeTaxCalculator/src/incometaxcalculator/data/io/TXTFileReader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="169" x="41" y="317"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="11">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="12">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <realization id="13">    
+    <bendpoint x="1596" y="609"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <realization id="14">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <realization id="15">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <realization id="16">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <realization id="17">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <realization id="18">    
+    <bendpoint x="1080" y="371"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="20">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="21">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="22">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

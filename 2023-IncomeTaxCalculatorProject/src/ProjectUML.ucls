@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="incometaxcalculator.data.io" project="IncomeTaxCalculator" 
+    file="/IncomeTaxCalculator/src/incometaxcalculator/data/io" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="327" y="182"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="incometaxcalculator.data.management" project="IncomeTaxCalculator" 
+    file="/IncomeTaxCalculator/src/incometaxcalculator/data/management" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="693" y="181"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="3" language="java" name="incometaxcalculator.exceptions" project="IncomeTaxCalculator" 
+    file="/IncomeTaxCalculator/src/incometaxcalculator/exceptions" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="338" y="383"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="4" language="java" name="incometaxcalculator.gui" project="IncomeTaxCalculator" 
+    file="/IncomeTaxCalculator/src/incometaxcalculator/gui" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="690" y="383"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <dependency id="5">    
+    <bendpoint x="499" y="166"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="6">    
+    <bendpoint x="496" y="266"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="7">    
+    <bendpoint x="347" y="287"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="8">    
+    <bendpoint x="522" y="368"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="9">    
+    <bendpoint x="713" y="290"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="10">    
+    <bendpoint x="493" y="202"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="11">    
+    <bendpoint x="318" y="289"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="12">    
+    <bendpoint x="521" y="305"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="13">    
+    <bendpoint x="523" y="401"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="14">    
+    <bendpoint x="674" y="286"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

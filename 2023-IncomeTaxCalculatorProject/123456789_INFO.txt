@@ -1,0 +1,28 @@
+Name: Apostolos Zarras
+AFM: 123456789
+Status: Married Filing Jointly
+Income: 22570.0
+
+Receipts:
+
+Receipt ID: 1
+Date: 10/5/1996
+Kind: Basic
+Amount: 251.0
+Company: Parta
+Country: Jakusa
+City: Drama
+Street: Fukosima
+Number: 5
+
+Receipt ID: 2
+Date: 12/12/2015
+Kind: Basic
+Amount: 15.0
+Company: LOL
+Country: Greece
+City: Ioannina
+Street: Napolewn Zerva
+Number: 12
+
+
